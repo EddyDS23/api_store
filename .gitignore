@@ -1,8 +1,9 @@
 #NO GUARDAR DATOS SENSIBLES
 .env
+sql/data.sql
 
 #NO GUARDAR CACHE 
-data.sql
+app/database/__pycache__
 
 #NO GUARDAR LAS LIBRERIAS
 venv/
